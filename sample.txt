@@ -1,0 +1,1 @@
+Replace this file with your own notes, e.g. your college syllabus, a project report, or any FAQ text. Add more .txt files to the docs folder and call POST /ingest.
